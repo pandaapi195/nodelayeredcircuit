@@ -1,0 +1,12 @@
+{
+  "name": "rate-gate-054506",
+  "version": "1.0.0",
+  "description": "A rate gate utility",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": ["rate-gate", "utility"],
+  "license": "MIT"
+}
